@@ -8,7 +8,7 @@ html, body {
 
 body {
     font-family: "Lato", sans-serif;
-    background: #000000 url("D:/Darya/distant_git/background.jpg") center top;
+    background: #000000 url("background.jpg") center top;
     background-size: cover;
     margin: 0;
 }
